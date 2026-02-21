@@ -1,0 +1,499 @@
+{
+    "Maruti Suzuki India": {
+        "nseScriptCode": "MARUTI",
+        "searchId": "maruti-suzuki-india-ltd",
+        "marketCap": 481782000000000,
+        "closePrice": 15326.0,
+        "fetched_at": "2026-02-15T11:41:28.628434+00:00"
+    },
+    "Mahindra & Mahindra": {
+        "nseScriptCode": "M&M",
+        "searchId": "mahindra-mahindra-ltd",
+        "marketCap": 446775000000000,
+        "closePrice": 3593.1,
+        "fetched_at": "2026-02-15T11:41:28.628512+00:00"
+    },
+    "Kotak Mahindra Bank": {
+        "nseScriptCode": "KOTAKBANK",
+        "searchId": "kotak-mahindra-bank-ltd",
+        "marketCap": 423962000000000,
+        "closePrice": 426.25,
+        "fetched_at": "2026-02-15T11:41:28.628523+00:00"
+    },
+    "Axis Bank": {
+        "nseScriptCode": "AXISBANK",
+        "searchId": "axis-bank-ltd",
+        "marketCap": 416254000000000,
+        "closePrice": 1340.0,
+        "fetched_at": "2026-02-15T11:41:28.628531+00:00"
+    },
+    "Sun Pharmaceutical Industries": {
+        "nseScriptCode": "SUNPHARMA",
+        "searchId": "sun-pharmaceutical-industries-ltd",
+        "marketCap": 411401000000000,
+        "closePrice": 1714.9,
+        "fetched_at": "2026-02-15T11:41:28.628538+00:00"
+    },
+    "HCL Technologies": {
+        "nseScriptCode": "HCLTECH",
+        "searchId": "hcl-technologies-ltd",
+        "marketCap": 400564000000000,
+        "closePrice": 1476.1,
+        "fetched_at": "2026-02-15T11:41:28.628546+00:00"
+    },
+    "ITC": {
+        "nseScriptCode": "ITC",
+        "searchId": "itc-ltd",
+        "marketCap": 397990000000000,
+        "closePrice": 317.45,
+        "fetched_at": "2026-02-15T11:41:28.628561+00:00"
+    },
+    "UltraTech Cement": {
+        "nseScriptCode": "ULTRACEMCO",
+        "searchId": "ultratech-cement-ltd",
+        "marketCap": 383903000000000,
+        "closePrice": 13029.0,
+        "fetched_at": "2026-02-15T11:41:28.628569+00:00"
+    },
+    "Titan Company": {
+        "nseScriptCode": "TITAN",
+        "searchId": "titan-company-ltd",
+        "marketCap": 379675000000000,
+        "closePrice": 4275.8,
+        "fetched_at": "2026-02-15T11:41:28.628577+00:00"
+    },
+    "NTPC": {
+        "nseScriptCode": "NTPC",
+        "searchId": "ntpc-ltd",
+        "marketCap": 356934000000000,
+        "closePrice": 368.25,
+        "fetched_at": "2026-02-15T11:41:28.628585+00:00"
+    },
+    "Adani Ports and Special Economic Zone": {
+        "nseScriptCode": "ADANIPORTS",
+        "searchId": "adani-ports-and-special-economic-zone-ltd",
+        "marketCap": 355731000000000,
+        "closePrice": 1543.7,
+        "fetched_at": "2026-02-15T11:41:28.628592+00:00"
+    },
+    "Oil & Natural Gas Corporation": {
+        "nseScriptCode": "ONGC",
+        "searchId": "oil-natural-gas-corporation-ltd",
+        "marketCap": 347530000000000,
+        "closePrice": 276.35,
+        "fetched_at": "2026-02-15T11:41:28.628601+00:00"
+    },
+    "Bajaj Finserv": {
+        "nseScriptCode": "BAJAJFINSV",
+        "searchId": "bajaj-finserv-ltd",
+        "marketCap": 325402000000000,
+        "closePrice": 2037.1,
+        "fetched_at": "2026-02-15T11:41:28.628609+00:00"
+    },
+    "Bharat Electronics": {
+        "nseScriptCode": "BEL",
+        "searchId": "bharat-electronics-ltd",
+        "marketCap": 324444000000000,
+        "closePrice": 443.9,
+        "fetched_at": "2026-02-15T11:41:28.628616+00:00"
+    },
+    "JSW Steel": {
+        "nseScriptCode": "JSWSTEEL",
+        "searchId": "jsw-steel-ltd",
+        "marketCap": 305009000000000,
+        "closePrice": 1247.9,
+        "fetched_at": "2026-02-15T11:41:28.786629+00:00"
+    },
+    "Adani Power": {
+        "nseScriptCode": "ADANIPOWER",
+        "searchId": "adani-power-ltd",
+        "marketCap": 288884000000000,
+        "closePrice": 149.79,
+        "fetched_at": "2026-02-15T11:41:28.786657+00:00"
+    },
+    "Eternal (Zomato)": {
+        "nseScriptCode": "ETERNAL",
+        "searchId": "zomato-ltd",
+        "marketCap": 287483000000000,
+        "closePrice": 298.0,
+        "fetched_at": "2026-02-15T11:41:28.786666+00:00"
+    },
+    "Adani Enterprises": {
+        "nseScriptCode": "ADANIENT",
+        "searchId": "adani-enterprises-ltd",
+        "marketCap": 279078000000000,
+        "closePrice": 2211.8,
+        "fetched_at": "2026-02-15T11:41:28.786673+00:00"
+    },
+    "Hindustan Aeronautics": {
+        "nseScriptCode": "HAL",
+        "searchId": "hindustan-aeronautics-ltd",
+        "marketCap": 278120000000000,
+        "closePrice": 4158.9,
+        "fetched_at": "2026-02-15T11:41:28.786680+00:00"
+    },
+    "Bajaj Auto": {
+        "nseScriptCode": "BAJAJ-AUTO",
+        "searchId": "bajaj-auto-ltd",
+        "marketCap": 274950000000000,
+        "closePrice": 9840.0,
+        "fetched_at": "2026-02-15T11:41:28.786687+00:00"
+    },
+    "Vedanta": {
+        "nseScriptCode": "VEDL",
+        "searchId": "vedanta-ltd",
+        "marketCap": 274646000000000,
+        "closePrice": 702.75,
+        "fetched_at": "2026-02-15T11:41:28.786694+00:00"
+    },
+    "Power Grid Corporation of India": {
+        "nseScriptCode": "POWERGRID",
+        "searchId": "power-grid-corporation-of-india-ltd",
+        "marketCap": 273205000000000,
+        "closePrice": 293.9,
+        "fetched_at": "2026-02-15T11:41:28.786701+00:00"
+    },
+    "Hindustan Zinc": {
+        "nseScriptCode": "HINDZINC",
+        "searchId": "hindustan-zinc-ltd",
+        "marketCap": 263533000000000,
+        "closePrice": 623.7,
+        "fetched_at": "2026-02-15T11:41:28.786709+00:00"
+    },
+    "Tata Steel": {
+        "nseScriptCode": "TATASTEEL",
+        "searchId": "tata-steel-ltd",
+        "marketCap": 259787000000000,
+        "closePrice": 208.11,
+        "fetched_at": "2026-02-15T11:41:28.786717+00:00"
+    },
+    "Coal India": {
+        "nseScriptCode": "COALINDIA",
+        "searchId": "coal-india-ltd",
+        "marketCap": 258279000000000,
+        "closePrice": 419.15,
+        "fetched_at": "2026-02-15T11:41:28.786724+00:00"
+    },
+    "Avenue Supermarts": {
+        "nseScriptCode": "DMART",
+        "searchId": "avenue-supermarts-ltd",
+        "marketCap": 257843000000000,
+        "closePrice": 3963.0,
+        "fetched_at": "2026-02-15T11:41:28.786755+00:00"
+    },
+    "Nestle India": {
+        "nseScriptCode": "NESTLEIND",
+        "searchId": "nestle-india-ltd",
+        "marketCap": 251664000000000,
+        "closePrice": 1305.5,
+        "fetched_at": "2026-02-15T11:41:28.786764+00:00"
+    },
+    "Indian Oil Corporation": {
+        "nseScriptCode": "IOC",
+        "searchId": "indian-oil-corporation-ltd",
+        "marketCap": 251640000000000,
+        "closePrice": 178.11,
+        "fetched_at": "2026-02-15T11:41:28.786771+00:00"
+    },
+    "Asian Paints": {
+        "nseScriptCode": "ASIANPAINT",
+        "searchId": "asian-paints-ltd",
+        "marketCap": 231113000000000,
+        "closePrice": 2410.5,
+        "fetched_at": "2026-02-15T11:41:28.881984+00:00"
+    },
+    "Wipro": {
+        "nseScriptCode": "WIPRO",
+        "searchId": "wipro-ltd",
+        "marketCap": 229568000000000,
+        "closePrice": 219.08,
+        "fetched_at": "2026-02-15T11:41:28.882013+00:00"
+    },
+    "Eicher Motors": {
+        "nseScriptCode": "EICHERMOT",
+        "searchId": "eicher-motors-ltd",
+        "marketCap": 217878000000000,
+        "closePrice": 7943.0,
+        "fetched_at": "2026-02-15T11:41:28.882022+00:00"
+    },
+    "Hindalco Industries": {
+        "nseScriptCode": "HINDALCO",
+        "searchId": "hindalco-industries-ltd",
+        "marketCap": 216700000000000,
+        "closePrice": 964.4,
+        "fetched_at": "2026-02-15T11:41:28.882030+00:00"
+    },
+    "Shriram Finance": {
+        "nseScriptCode": "SHRIRAMFIN",
+        "searchId": "shriram-transport-finance-company-ltd",
+        "marketCap": 203816000000000,
+        "closePrice": 1082.8,
+        "fetched_at": "2026-02-15T11:41:28.882036+00:00"
+    },
+    "SBI Life Insurance Company": {
+        "nseScriptCode": "SBILIFE",
+        "searchId": "sbi-life-insurance-company-ltd",
+        "marketCap": 202702000000000,
+        "closePrice": 2022.1,
+        "fetched_at": "2026-02-15T11:41:28.882043+00:00"
+    },
+    "Grasim Industries": {
+        "nseScriptCode": "GRASIM",
+        "searchId": "grasim-industries-ltd",
+        "marketCap": 199120000000000,
+        "closePrice": 2925.5,
+        "fetched_at": "2026-02-15T11:41:28.882050+00:00"
+    },
+    "Interglobe Aviation": {
+        "nseScriptCode": "INDIGO",
+        "searchId": "interglobe-aviation-ltd",
+        "marketCap": 192668000000000,
+        "closePrice": 4982.8,
+        "fetched_at": "2026-02-15T11:41:28.882057+00:00"
+    },
+    "TVS Motor Company": {
+        "nseScriptCode": "TVSMOTOR",
+        "searchId": "tvs-motor-company-ltd",
+        "marketCap": 184412000000000,
+        "closePrice": 3881.2,
+        "fetched_at": "2026-02-15T11:41:28.882065+00:00"
+    },
+    "Tata Motors Commercial Vehicles": {
+        "nseScriptCode": "TMCV",
+        "searchId": "tata-motors-ltd-22",
+        "marketCap": 183361000000000,
+        "closePrice": 498.15,
+        "fetched_at": "2026-02-15T11:41:28.882072+00:00"
+    },
+    "Hyundai Motor India": {
+        "nseScriptCode": "HYUNDAI",
+        "searchId": "hyundai-motor-india-ltd",
+        "marketCap": 176983000000000,
+        "closePrice": 2177.5,
+        "fetched_at": "2026-02-15T11:41:28.882078+00:00"
+    },
+    "JIO Financial Services": {
+        "nseScriptCode": "JIOFIN",
+        "searchId": "jio-financial-services-ltd",
+        "marketCap": 170041000000000,
+        "closePrice": 267.55,
+        "fetched_at": "2026-02-15T11:41:28.882085+00:00"
+    },
+    "Divi's Laboratories": {
+        "nseScriptCode": "DIVISLAB",
+        "searchId": "divis-laboratories-ltd",
+        "marketCap": 164277000000000,
+        "closePrice": 6185.0,
+        "fetched_at": "2026-02-15T11:41:28.882132+00:00"
+    },
+    "Adani Green Energy": {
+        "nseScriptCode": "ADANIGREEN",
+        "searchId": "adani-green-energy-ltd",
+        "marketCap": 164256000000000,
+        "closePrice": 997.65,
+        "fetched_at": "2026-02-15T11:41:28.999982+00:00"
+    },
+    "Bharat Petroleum Corporation": {
+        "nseScriptCode": "BPCL",
+        "searchId": "bharat-petroleum-corporation-ltd",
+        "marketCap": 163800000000000,
+        "closePrice": 377.7,
+        "fetched_at": "2026-02-15T11:41:29.000014+00:00"
+    },
+    "Muthoot Finance": {
+        "nseScriptCode": "MUTHOOTFIN",
+        "searchId": "muthoot-finance-ltd",
+        "marketCap": 163357000000000,
+        "closePrice": 4066.9,
+        "fetched_at": "2026-02-15T11:41:29.000027+00:00"
+    },
+    "DLF": {
+        "nseScriptCode": "DLF",
+        "searchId": "dlf-ltd",
+        "marketCap": 161316000000000,
+        "closePrice": 651.8,
+        "fetched_at": "2026-02-15T11:41:29.000036+00:00"
+    },
+    "LTIMindtree": {
+        "nseScriptCode": "LTIM",
+        "searchId": "larsen-toubro-infotech-ltd",
+        "marketCap": 154520000000000,
+        "closePrice": 5211.5,
+        "fetched_at": "2026-02-15T11:41:29.000045+00:00"
+    },
+    "Varun Beverages": {
+        "nseScriptCode": "VBL",
+        "searchId": "varun-beverages-ltd",
+        "marketCap": 154105000000000,
+        "closePrice": 455.7,
+        "fetched_at": "2026-02-15T11:41:29.000053+00:00"
+    },
+    "ICICI Prudential Asset Management Company": {
+        "nseScriptCode": "ICICIAMC",
+        "searchId": "icici-prudential-asset-management-company-ltd",
+        "marketCap": 153595000000000,
+        "closePrice": 3108.5,
+        "fetched_at": "2026-02-15T11:41:29.000061+00:00"
+    },
+    "Trent": {
+        "nseScriptCode": "TRENT",
+        "searchId": "trent-ltd",
+        "marketCap": 152315000000000,
+        "closePrice": 4285.6,
+        "fetched_at": "2026-02-15T11:41:29.000069+00:00"
+    },
+    "Pidilite Industries": {
+        "nseScriptCode": "PIDILITIND",
+        "searchId": "pidilite-industries-ltd",
+        "marketCap": 152234000000000,
+        "closePrice": 1497.4,
+        "fetched_at": "2026-02-15T11:41:29.000077+00:00"
+    },
+    "HDFC Life Insurance Company": {
+        "nseScriptCode": "HDFCLIFE",
+        "searchId": "hdfc-standard-life-insurance-co-ltd",
+        "marketCap": 151637000000000,
+        "closePrice": 702.7,
+        "fetched_at": "2026-02-15T11:41:29.000084+00:00"
+    },
+    "Tata Capital": {
+        "nseScriptCode": "TATACAP",
+        "searchId": "tata-capital-ltd",
+        "marketCap": 151584000000000,
+        "closePrice": 356.9,
+        "fetched_at": "2026-02-15T11:41:29.000093+00:00"
+    },
+    "Tech Mahindra": {
+        "nseScriptCode": "TECHM",
+        "searchId": "tech-mahindra-ltd",
+        "marketCap": 150522000000000,
+        "closePrice": 1536.6,
+        "fetched_at": "2026-02-15T11:41:29.000100+00:00"
+    },
+    "Bank of Baroda": {
+        "nseScriptCode": "BANKBARODA",
+        "searchId": "bank-of-baroda",
+        "marketCap": 149917000000000,
+        "closePrice": 289.85,
+        "fetched_at": "2026-02-15T11:41:29.000108+00:00"
+    },
+    "Indian Railway Finance Corp": {
+        "nseScriptCode": "IRFC",
+        "searchId": "indian-railway-finance-corporation-ltd",
+        "marketCap": 148392000000000,
+        "closePrice": 113.53,
+        "fetched_at": "2026-02-15T11:41:29.000115+00:00"
+    },
+    "Cholamandalam Investment & Finance Company": {
+        "nseScriptCode": "CHOLAFIN",
+        "searchId": "cholamandalam-investment-finance-company-ltd",
+        "marketCap": 147640000000000,
+        "closePrice": 1731.8,
+        "fetched_at": "2026-02-15T11:41:29.000124+00:00"
+    },
+    "Britannia Industries": {
+        "nseScriptCode": "BRITANNIA",
+        "searchId": "britannia-industries-ltd",
+        "marketCap": 147094000000000,
+        "closePrice": 6102.0,
+        "fetched_at": "2026-02-15T11:41:29.113846+00:00"
+    },
+    "Tata Motors Passenger Vehicles": {
+        "nseScriptCode": "TMPV",
+        "searchId": "tata-motors-ltd",
+        "marketCap": 141180000000000,
+        "closePrice": 383.45,
+        "fetched_at": "2026-02-15T11:41:29.113863+00:00"
+    },
+    "Samvardhana Motherson International": {
+        "nseScriptCode": "MOTHERSON",
+        "searchId": "motherson-sumi-systems-ltd",
+        "marketCap": 139899000000000,
+        "closePrice": 132.74,
+        "fetched_at": "2026-02-15T11:41:29.113868+00:00"
+    },
+    "Punjab National Bank": {
+        "nseScriptCode": "PNB",
+        "searchId": "punjab-national-bank",
+        "marketCap": 139007000000000,
+        "closePrice": 120.96,
+        "fetched_at": "2026-02-15T11:41:29.113872+00:00"
+    },
+    "Torrent Pharmaceuticals": {
+        "nseScriptCode": "TORNTPHARM",
+        "searchId": "torrent-pharmaceuticals-ltd",
+        "marketCap": 138139000000000,
+        "closePrice": 4077.2,
+        "fetched_at": "2026-02-15T11:41:29.113875+00:00"
+    },
+    "Union Bank of India": {
+        "nseScriptCode": "UNIONBANK",
+        "searchId": "union-bank-of-india",
+        "marketCap": 138130000000000,
+        "closePrice": 181.0,
+        "fetched_at": "2026-02-15T11:41:29.113879+00:00"
+    },
+    "Power Finance Corporation": {
+        "nseScriptCode": "PFC",
+        "searchId": "power-finance-corporation-ltd",
+        "marketCap": 135452000000000,
+        "closePrice": 410.55,
+        "fetched_at": "2026-02-15T11:41:29.113882+00:00"
+    },
+    "Ambuja Cements": {
+        "nseScriptCode": "AMBUJACEM",
+        "searchId": "ambuja-cements-ltd",
+        "marketCap": 131760000000000,
+        "closePrice": 532.85,
+        "fetched_at": "2026-02-15T11:41:29.113886+00:00"
+    },
+    "Canara Bank": {
+        "nseScriptCode": "CANBK",
+        "searchId": "canara-bank",
+        "marketCap": 131343000000000,
+        "closePrice": 144.81,
+        "fetched_at": "2026-02-15T11:41:29.113890+00:00"
+    },
+    "Vodafone Idea": {
+        "nseScriptCode": "IDEA",
+        "searchId": "vodafone-idea-ltd",
+        "marketCap": 125136000000000,
+        "closePrice": 11.55,
+        "fetched_at": "2026-02-15T11:41:29.113893+00:00"
+    },
+    "Indus Towers": {
+        "nseScriptCode": "INDUSTOWER",
+        "searchId": "bharti-infratel-ltd",
+        "marketCap": 125062000000000,
+        "closePrice": 474.0,
+        "fetched_at": "2026-02-15T11:41:29.113897+00:00"
+    },
+    "Ashok Leyland": {
+        "nseScriptCode": "ASHOKLEY",
+        "searchId": "ashok-leyland-ltd",
+        "marketCap": 123850000000000,
+        "closePrice": 211.02,
+        "fetched_at": "2026-02-15T11:41:29.113900+00:00"
+    },
+    "Godrej Consumer Products": {
+        "nseScriptCode": "GODREJCP",
+        "searchId": "godrej-consumer-products-ltd",
+        "marketCap": 123224000000000,
+        "closePrice": 1204.3,
+        "fetched_at": "2026-02-15T11:41:29.113904+00:00"
+    },
+    "Bajaj Holdings & Investment": {
+        "nseScriptCode": "BAJAJHLDNG",
+        "searchId": "bajaj-holdings-investment-ltd",
+        "marketCap": 123071000000000,
+        "closePrice": 11040.0,
+        "fetched_at": "2026-02-15T11:41:29.113907+00:00"
+    },
+    "Adani Energy Solutions": {
+        "nseScriptCode": "ADANIENSOL",
+        "searchId": "adani-transmission-ltd",
+        "marketCap": 122957000000000,
+        "closePrice": 1022.8,
+        "fetched_at": "2026-02-15T11:41:29.113911+00:00"
+    }
+}
